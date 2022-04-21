@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/tcp_dmeo/client/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tcp_dmeo/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcp_demo/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcp_demo/server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/udp_dmeo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket_server/src/main/resources" charset="UTF-8" />

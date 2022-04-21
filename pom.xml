@@ -12,7 +12,7 @@
   <modules>
       <module>websocket_server</module>
       <module>udp_dmeo</module>
-      <module>tcp_dmeo</module>
+      <module>tcp_demo</module>
   </modules>
 
 
